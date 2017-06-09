@@ -1,0 +1,96 @@
+{
+    "frames": {
+        "btn_chupai_s01.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 188,
+                "h": 78,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 5,
+                "w": 188,
+                "h": 78
+            },
+            "sourceSize": {
+                "w": 198,
+                "h": 88
+            },
+            "rotated": false,
+            "trimed": true
+        },
+        "btn_queding.png": {
+            "frame": {
+                "x": 190,
+                "y": 0,
+                "w": 222,
+                "h": 86,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 10,
+                "y": 5,
+                "w": 222,
+                "h": 86
+            },
+            "sourceSize": {
+                "w": 242,
+                "h": 96
+            },
+            "rotated": false,
+            "trimed": true
+        },
+        "btn_tishi_s01.png": {
+            "frame": {
+                "x": 0,
+                "y": 80,
+                "w": 188,
+                "h": 78,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 5,
+                "w": 188,
+                "h": 78
+            },
+            "sourceSize": {
+                "w": 198,
+                "h": 88
+            },
+            "rotated": false,
+            "trimed": true
+        },
+        "button.png": {
+            "frame": {
+                "x": 0,
+                "y": 160,
+                "w": 412,
+                "h": 334,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 412,
+                "h": 334
+            },
+            "sourceSize": {
+                "w": 412,
+                "h": 334
+            },
+            "rotated": false,
+            "trimed": true
+        }
+    },
+    "meta": {
+        "app": "http:\/\/www.layabox.com",
+        "version": "0.1.0 alpha",
+        "format": "json",
+        "scale": 1,
+        "image": "button.png",
+        "prefix": ""
+    }
+}
